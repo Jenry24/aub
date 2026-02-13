@@ -75,7 +75,7 @@ body {
   line-height: 25px;
   top: 20px;
   left: 85px;
-  color: #003049;
+  color: #f0000;
 }
 
 .heart {
@@ -245,5 +245,6 @@ body {
     transform: scaleX(0.85);
   }
 }
+
 
 
